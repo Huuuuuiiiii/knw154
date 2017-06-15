@@ -1,0 +1,1 @@
+#search-box,[ng-view],.f1-footer{display:none}.ie8-content{display:block!important;margin-bottom:64px}

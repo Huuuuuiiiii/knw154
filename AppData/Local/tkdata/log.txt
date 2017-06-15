@@ -1,0 +1,6 @@
+[0512/081240:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0512/081241:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0512/081241:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0512/081311:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0609/132629:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
+[0609/132629:ERROR:main_delegate.cc(766)] Could not load cef_extensions.pak
